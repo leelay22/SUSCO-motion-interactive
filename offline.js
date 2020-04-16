@@ -1,0 +1,31 @@
+﻿{
+	"version": 1586742186,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/sprite-sheet0.png",
+		"images/regis-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/saka.png",
+		"media/theme (online-audio-converter.com) (1).ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"s1.mp4",
+		"s2.mp4",
+		"s3.mp4",
+		"s4.mp4",
+		"s5.mp4",
+		"s6.mp4",
+		"s7.mp4",
+		"scene-12.png",
+		"s6-2.mp4",
+		"s7-2.mp4"
+	]
+}
